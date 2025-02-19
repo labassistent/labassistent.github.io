@@ -1,1 +1,1 @@
-# labassistent.github.io
+# LabAssistent
